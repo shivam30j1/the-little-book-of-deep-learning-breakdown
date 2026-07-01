@@ -9,6 +9,7 @@ Part -> Section -> Subsection
 
 I follow the same flow, except I do not reproduce the book text as-is anywhere.
 
+---------
 This work is a non-commercial derived educational resource
 based on François Fleuret's "The Little Book of Deep Learning."
 
