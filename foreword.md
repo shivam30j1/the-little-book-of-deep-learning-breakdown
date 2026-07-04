@@ -1,6 +1,6 @@
 # Foreword
 
-Deep learning really started to kick off after it was shown that it is subject to remarkable scaling. And that it could outperform current state-of-the-art models _by virtue of just the scale_, both of data and of architecture. GPUs made scaling possible because their parallelized design was able to actually handle it. Essentially, data scale x model scale x compute scale = exponential increase in performance.
+Deep learning really started to kick off after it was shown that it is subject to remarkable scaling. And that it could outperform current state-of-the-art models _by virtue of just the scale_, both of data and of architecture. GPUs made scaling possible because their parallelized design was able to actually handle it. Essentially, scaling data, model, and compute together unlocks dramatic improvements in performance.
 
 This led to a wave of research in deep learning in the previous decade, leading to innovations in:
 •	Structure (new layers, new connection paths, etc.) 
