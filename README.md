@@ -7,7 +7,7 @@ I use The Little Book of Deep Learning by Francois Fleuret as a high-fideilty re
 Dr. Fleuret's book is structured as:
 Part -> Chapter -> Subsection
 
-I follow the same flow, except I do not reproduce the book text as-is anywhere.
+I follow the same flow, except I try not to reproduce the book text as-is anywhere.
 
 ---------
 This work is a non-commercial derived educational resource
