@@ -1,6 +1,6 @@
 ## The Little Book of Deep Learning - Breakdown
 
-This repository documents my attempt to understand deep learning from first principles.
+This repository documents my attempt to understand deep learning.
 The goal is not to memorize architectures, but to understand what problem each design choice solves.
 I use The Little Book of Deep Learning by Francois Fleuret as a high-fideilty resource. 
 
