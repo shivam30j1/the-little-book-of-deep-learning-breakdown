@@ -2,7 +2,7 @@
 
 This repository documents my attempt to understand deep learning.
 The goal is not to memorize architectures, but to understand what problem each design choice solves.
-I use The Little Book of Deep Learning by Francois Fleuret as a high-fideilty resource. 
+I use The Little Book of Deep Learning by Francois Fleuret as a high-fidelity resource. 
 
 Dr. Fleuret's book is structured as:
 Part -> Chapter -> Subsection
